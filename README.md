@@ -1,28 +1,24 @@
-# This is a large heading
+# ISLAM SOLIMAN
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of New Cairo, in Cairo Governate, in Egypt.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *The Song Of Ice And Fire* by George R.R. Martin
+- *The Selfish Gene* by Richard Dowkins
+- *The Fault In Our Stars* by John Green
 
-```
-This is
-a block
-of code
-```
+### Food
+Last night I dreamt about eating in these restaurants:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Baffalo Burger.
+2. Lord of the wings.
+3. Ibn Elsham.
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
+
+The best way to get in touch with me is via my email <solaimani_96@yahoo.com>
